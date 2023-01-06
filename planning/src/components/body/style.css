@@ -1,0 +1,15 @@
+.box {
+    border: 0px;
+    border-color: black;
+    border-style: dashed;
+}
+
+.box2 {
+    float: left;
+    border: 1px;
+    border-color: black;
+    border-style: dashed;
+    padding: 5px;
+    width: 30%;
+    margin: 10px;
+}
