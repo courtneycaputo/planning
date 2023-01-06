@@ -1,7 +1,10 @@
 import React from 'react';
 import "./style.css";
 
+
 function Body () {
+
+    
 
     return (
         <div>
@@ -17,6 +20,8 @@ function Body () {
                 <p>test</p>
             </div>
         </div>
+
+        
     );
 }
 
